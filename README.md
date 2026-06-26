@@ -1,6 +1,6 @@
-# 📖 Dicionário Inteligente PT → EN
+# 📖 Dicionário Inteligente 
 
-Aplicação de terminal que recebe uma palavra em português e retorna sua tradução em inglês com exemplos, pronúncia, prática imediata via quiz e  podendo extrair para Anki onde pode revisar com flashcards e repetição espaçada, cujo objetivo é facilitar a memorização a longo prazo.
+Aplicação de terminal que recebe uma palavra em inglês e retorna sua tradução em portugues com exemplos, pronúncia, prática imediata via quiz e  podendo extrair para Anki onde pode revisar com flashcards e repetição espaçada, cujo objetivo é facilitar a memorização a longo prazo.
 
 ## Objetivo
 
